@@ -20,5 +20,5 @@
 * CI/CD
 
 ## Контакты
-telegram - AndreyDA25
+telegram - AndreyDA25\
 email - andrey123829@yandex.ru
